@@ -1,0 +1,41 @@
+}
+
+  .btn {
+    padding-right: 12px 24px;
+    opacity: 0.8;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  .btn-wrapper {
+    margin: 20px 0;
+  }
+  
+  .signup {
+    background-color: #239b76;
+  }
+  
+  .facebook {
+    background-color: #3b5998;
+    margin-right: 10px;
+  }
+  
+  .twitter {
+    background-color: #55acee;
+  }
+  
+  .btn:hover {
+    opacity: 1;
+  }
+  
+  .fa {
+    margin-right: 5px;
+  }
+
+  footer p {
+    color: #b3aeb5;
+    font-size: 12px;
+  }
+  
+  footer {
+    padding-top: 30px;
+  }
